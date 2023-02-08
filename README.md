@@ -26,4 +26,6 @@ You will see this on your Stream Deck:
 
 <img src="assets/exit.jpg"></img>
 
+### Other examples
 
+It's easy to build more complicated apps like a calculator: [assets/calc.mp4](assets/calc.mp4).
