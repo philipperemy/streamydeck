@@ -2,6 +2,12 @@
 
 Build apps easily on the Stream Deck.
 
+*Streamy* is based on objects we call `View`. A view is a 2D `3*5` (the number of cells on the deck) grid containing one `Element` per cell.
+
+`my_view[i, j]` points to the i-th row and j-th column `Element`. Each `Element` is associated with an action when a user presses this button.
+
+The idea of *Streamy* is to navigate through different views when an action occurs.
+
 *Available on PyPI*
 
 ```
